@@ -9,7 +9,7 @@ For future interns at the Collaboratory:
 ## Use This Project
 To test this project or develop it further, clone this repository using the clone link from above. 
 &nbsp;  
-Type ```` git clone link ```` on your command line. 
+For ssh, type ```` git clone git@github.com:zeynepyc/collaboratory.git ```` on your command line. 
 &nbsp;  
 Connect your iPhone to your laptop and turn on the Developer mode on your phone from Settings. Open up the project in Unity and go to File -> Build and Run. This will open up XCode. Make sure your personal phone is selected as target device on XCode. When you run the project, XCode will build the app on your phone!
 
