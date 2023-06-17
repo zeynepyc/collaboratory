@@ -1,6 +1,6 @@
 # collaboratory
 
-This is an AR application built with Unity to present artifacts from the [Ancient Mediterrenean Lamps](https://ancient-med-lamps.artinterp.org/) collection in a virtual setting. Once deployed to an iPhone, simply point the camera to an image of a lamp copy. This should trigger a 3D model of the actual lamp on your screen.
+This is an AR application built with Unity to present artifacts from the [Ancient Mediterrenean Lamps](https://ancient-med-lamps.artinterp.org/) collection in a virtual setting. Once deployed to an iPhone, simply point the camera to an image of a lamp copy. This should trigger a 3D model of the actual lamp on your screen. Feel free to check out the demo video above in the files!
 
 For future interns at the Collaboratory:
   - You can pull this repository to your local machine to develop this project further, or
